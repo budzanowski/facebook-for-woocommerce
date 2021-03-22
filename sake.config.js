@@ -3,7 +3,9 @@ module.exports = {
     id: 'facebook-for-woocommerce'
   },
   deploy: {
-    type: 'wp'
+    type: 'wp',
+    production: 'file:///Users/bartoszbudzanowski/work-testing-svn'
+
   },
   framework: 'v5',
   deployAssets: false

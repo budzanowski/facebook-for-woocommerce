@@ -39,7 +39,7 @@ When opening a bug on GitHub, please give us as many details as possible.
 
 == Changelog ==
 
-= 2021.03.09 - version 2.3.3-dev.1 =
+= 2021.nn.nn - version 2.3.3-dev.1 =
  * Fix - WooCommerce variation attribute sync not matching Enhanced Catalog attributes.
  * Fix - Enable display names to be used for variant attribute values.
  * Fix - Performance, do not auto-load Google Categories option.
